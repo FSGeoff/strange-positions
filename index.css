@@ -1,0 +1,25 @@
+#header {
+    color: blanchedalmond;
+    background-color: blue;
+}
+
+.parent-box { background-color: darkgreen;
+    width: 800px;
+    height: 210px;
+            
+
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    margin: 5px;
+    float: left;
+}   
+
+.general-text {
+    clear: both;
+    overflow: hidden;
+    
+}
