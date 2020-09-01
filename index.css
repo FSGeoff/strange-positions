@@ -79,3 +79,14 @@ body {
 .fourth-box-text {
     margin: 5px;
 }
+
+.beach-box {
+    clear: both;
+    height: 200px;
+    width: 350px;
+}
+
+#beach-pic {
+    height: 350px;
+    width: 500px;
+}
