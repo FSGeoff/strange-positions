@@ -61,3 +61,21 @@ body {
     padding: 5px;
     color: rgb(38, 25, 228);
 }
+
+.fourth-box {
+    clear: both;
+    height: 250px;
+    width: 250px;
+    color:purple;
+    background-color: rgb(218, 145, 11);
+    opacity: .8;
+    padding: 3px;
+    margin: 10px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.fourth-box-text {
+    margin: 5px;
+}
